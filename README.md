@@ -7,5 +7,5 @@
 
 - **Intelligent Warehousing with RFID and IoT**
   Dieses Papier untersucht die Nutzung von **RFID**, **IoT** und **Wearables** für die **Optimierung der Logistikprozesse** und der **Ressourcenverwaltung** in modernen **Lagerhäusern**.
-توضیحات:
+
 
